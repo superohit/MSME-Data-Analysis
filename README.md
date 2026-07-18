@@ -485,27 +485,6 @@ Mitigation Strategy:
 
 ---
 
-## 🎓 Learning Outcomes
-
-**For Analysts:**
-- How to build production-grade data pipelines with pandas
-- Translating business rules into interpretable scoring logic
-- Dashboard design for non-technical decision makers
-
-**For Finance Professionals:**
-- RBI prudential norms in practice
-- ECGC risk frameworks and premium pricing
-- Export credit policy (IES, sector eligibility, geographic targeting)
-- Crisis resilience: COVID-19 impact on export finance
-
-**For Policymakers:**
-- Data-driven insights for sector development
-- Regional imbalances in subsidy utilization (Tier-3 states)
-- Portfolio stress testing methodologies
-- Geographic diversification strategies
-
----
-
 ## 🛠️ Technologies Used
 
 | Component | Technology |
