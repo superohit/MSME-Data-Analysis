@@ -332,6 +332,6 @@ def update_all(fy, sector, risk, size):
 
 
 if __name__ == '__main__':
-    print('🚀 Starting MSME Trade Finance Dashboard...')
+    print('Starting MSME Trade Finance Dashboard...')
     print('   Open browser at: http://127.0.0.1:8050')
     app.run(debug=True, port=8050)
