@@ -1,4 +1,4 @@
-# MSME Export Finance Risk Scoring Engine
+# MSME Export Finance Analysis Engine
 
 **A rule-based risk classification system for micro, small, and medium enterprise (MSME) export loan applications, aligned with RBI prudential norms and ECGC risk frameworks.**
 
