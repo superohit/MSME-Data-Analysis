@@ -4,7 +4,6 @@ generate_data.py
 Generates a realistic synthetic MSME Exporter Financing & Loan Disbursement dataset
 inspired by RBI DBIE, DGFT export performance data, and SIDBI MSME Pulse reports.
 
-Run: python generate_data.py
 Output: data/msme_loan_disbursements.csv
 """
 
@@ -208,6 +207,6 @@ for i in range(n_records):
 
 df = pd.DataFrame(records)
 df.to_csv("data/msme_loan_disbursements.csv", index=False)
-print(f"✅ Dataset generated: {len(df)} records → data/msme_loan_disbursements.csv")
+print(f"Dataset generated: {len(df)} records → data/msme_loan_disbursements.csv")
 print(df.head(3).to_string())
 print(f"\nFiscal Year distribution:\n{df['Fiscal_Year'].value_counts().sort_index()}")
